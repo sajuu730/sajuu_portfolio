@@ -4,6 +4,11 @@ A responsive, single-page engineering portfolio built with HTML, CSS and vanilla
 
 ## Sections
 
+- Professional experience timeline
+- Interactive browser-only project walkthroughs
+- Real screenshots from the locally running Production Support Intelligence demo
+- LinkedIn and GitHub contact links
+
 - Animated scroll reveals and subtle motion effects
 - Dedicated case-study pages for each featured project
 - Architecture flow diagrams and clearly labelled synthetic demo panels
