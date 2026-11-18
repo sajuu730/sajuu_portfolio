@@ -4,6 +4,10 @@ A responsive, single-page engineering portfolio built with HTML, CSS and vanilla
 
 ## Sections
 
+- Animated scroll reveals and subtle motion effects
+- Dedicated case-study pages for each featured project
+- Architecture flow diagrams and clearly labelled synthetic demo panels
+
 - Introduction and engineering focus
 - About and independent portfolio-project context
 - Three featured GitHub projects
